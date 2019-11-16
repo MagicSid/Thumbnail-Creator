@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Github\\Thumbnail-Creator\\ThumbNail Creator\\ThumbNail Creator.csproj": {}
+  },
+  "projects": {
+    "E:\\Github\\Thumbnail-Creator\\ThumbNail Creator\\ThumbNail Creator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Github\\Thumbnail-Creator\\ThumbNail Creator\\ThumbNail Creator.csproj",
+        "projectName": "ThumbNail Creator",
+        "projectPath": "E:\\Github\\Thumbnail-Creator\\ThumbNail Creator\\ThumbNail Creator.csproj",
+        "packagesPath": "C:\\Users\\jake\\.nuget\\packages\\",
+        "outputPath": "E:\\Github\\Thumbnail-Creator\\ThumbNail Creator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

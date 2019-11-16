@@ -1,0 +1,22 @@
+E:\Github\Thumbnail creater replacement\ThumbNail Creator\bin\Debug\netcoreapp2.2\ThumbNail Creator.deps.json
+E:\Github\Thumbnail creater replacement\ThumbNail Creator\bin\Debug\netcoreapp2.2\ThumbNail Creator.runtimeconfig.json
+E:\Github\Thumbnail creater replacement\ThumbNail Creator\bin\Debug\netcoreapp2.2\ThumbNail Creator.runtimeconfig.dev.json
+E:\Github\Thumbnail creater replacement\ThumbNail Creator\bin\Debug\netcoreapp2.2\ThumbNail Creator.dll
+E:\Github\Thumbnail creater replacement\ThumbNail Creator\obj\Debug\netcoreapp2.2\ThumbNail Creator.csprojAssemblyReference.cache
+E:\Github\Thumbnail creater replacement\ThumbNail Creator\obj\Debug\netcoreapp2.2\ThumbNail Creator.csproj.CoreCompileInputs.cache
+E:\Github\Thumbnail creater replacement\ThumbNail Creator\obj\Debug\netcoreapp2.2\ThumbNail Creator.AssemblyInfoInputs.cache
+E:\Github\Thumbnail creater replacement\ThumbNail Creator\obj\Debug\netcoreapp2.2\ThumbNail Creator.AssemblyInfo.cs
+E:\Github\Thumbnail creater replacement\ThumbNail Creator\bin\Debug\netcoreapp2.2\ThumbNail Creator.pdb
+E:\Github\Thumbnail creater replacement\ThumbNail Creator\obj\Debug\netcoreapp2.2\ThumbNail Creator.dll
+E:\Github\Thumbnail creater replacement\ThumbNail Creator\obj\Debug\netcoreapp2.2\ThumbNail Creator.pdb
+E:\Github\Thumbnail-Creator\ThumbNail Creator\bin\Debug\netcoreapp2.2\ThumbNail Creator.deps.json
+E:\Github\Thumbnail-Creator\ThumbNail Creator\bin\Debug\netcoreapp2.2\ThumbNail Creator.runtimeconfig.json
+E:\Github\Thumbnail-Creator\ThumbNail Creator\bin\Debug\netcoreapp2.2\ThumbNail Creator.runtimeconfig.dev.json
+E:\Github\Thumbnail-Creator\ThumbNail Creator\bin\Debug\netcoreapp2.2\ThumbNail Creator.dll
+E:\Github\Thumbnail-Creator\ThumbNail Creator\bin\Debug\netcoreapp2.2\ThumbNail Creator.pdb
+E:\Github\Thumbnail-Creator\ThumbNail Creator\obj\Debug\netcoreapp2.2\ThumbNail Creator.csprojAssemblyReference.cache
+E:\Github\Thumbnail-Creator\ThumbNail Creator\obj\Debug\netcoreapp2.2\ThumbNail Creator.csproj.CoreCompileInputs.cache
+E:\Github\Thumbnail-Creator\ThumbNail Creator\obj\Debug\netcoreapp2.2\ThumbNail Creator.AssemblyInfoInputs.cache
+E:\Github\Thumbnail-Creator\ThumbNail Creator\obj\Debug\netcoreapp2.2\ThumbNail Creator.AssemblyInfo.cs
+E:\Github\Thumbnail-Creator\ThumbNail Creator\obj\Debug\netcoreapp2.2\ThumbNail Creator.dll
+E:\Github\Thumbnail-Creator\ThumbNail Creator\obj\Debug\netcoreapp2.2\ThumbNail Creator.pdb
